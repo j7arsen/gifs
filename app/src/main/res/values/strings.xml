@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    
+    <string name="gifs_screen_title">Gif изображения</string>
+    <string name="gifs_search_title">Search for gifs</string>
+
+    <string name="error_socket_timeout">Слишком медленный интернет. Проверьте подключение к интернету и попробуйте еще раз</string>
+    <string name="error_no_internet">Нет доступа к интернету. </string>
+    <string name="error_default">Что-то пошло не так. Попробуйте повторить позже</string>
+    <string name="error_request_limit">Превышен лимит возможных запросов на сегодня, возвращайтесь завтра</string>
+
+    <string name="gif_delete">Удалить</string>
+    <string name="gif_more">Подробнее</string>
+    <string name="gifs_empty_list">Ничего не удалось найти :(</string>
+
+    <string name="gif_id">ID:</string>
+    <string name="gif_title">Название:</string>
+    <string name="gif_url">Название:</string>
+
+    <string name="retry">Повторить</string>
+
+    <string name="gif_detail_title">Полноэкранный режим</string>
+    <string name="gif_delete_success">Gif изображение успешно удалено</string>
+    <string name="gif_delete_error">Не удалось удалить Gif изображение. Попробуйте повторить позже</string>
+
+    <string name="gif_search_title">Найти GIF</string>
+</resources>
